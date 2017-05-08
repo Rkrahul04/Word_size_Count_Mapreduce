@@ -1,7 +1,7 @@
 # Word_Count_Mapreduce
- Calculate the size of a word and the number of words of that size in a text file
+Calculate the size of a word and the number of words of that size in a text file
 
-Problem Statement :
+Problem Statement  :
  We need to write a MapReduce program to process two text files. You need to calculate the size of each word and count the number of
 words of that size in the text file.
 The dataset for this problem is the text file ‘alphabets’ .
@@ -19,4 +19,5 @@ Word Size Word Count
 1 1 (As the word of size 1 is: a)
 2 4 (As the words of size 2 are: is, of, of, in)
 3 3 (As the words of size 3 are: the, and, the)
-4 6 (As the words of size 4 are: this, word, size, that, size) 
+4 6 (As the words of size 4 are: this, word, size, that, size)
+
